@@ -17,3 +17,24 @@ MusicMoodRecommender/
 │── MusicRecommender.java     (Main Application)
 │── MoodAnalyzer.java         (AI-Powered Mood Detection)
 │── SongDatabase.java         (Manages Song Lists)
+
+
+🎯 How It Works?
+User Inputs Their Mood 🎭
+
+AI detects mood based on keywords
+
+Recommends Songs Based on Mood 🎶
+
+Fetches song list from the database
+
+Users Can Add Their Own Songs 🎼
+
+Personalize the song list!
+
+🚀 How to Run?
+Compile: javac *.java
+
+Run: java MusicRecommender
+
+Enjoy Personalized Song Recommendations! 🎵
